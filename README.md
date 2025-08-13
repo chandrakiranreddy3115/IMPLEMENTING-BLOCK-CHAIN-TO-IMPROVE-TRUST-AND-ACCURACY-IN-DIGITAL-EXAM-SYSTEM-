@@ -1,0 +1,2 @@
+# IMPLEMENTING-BLOCK-CHAIN-TO-IMPROVE-TRUST-AND-ACCURACY-IN-DIGITAL-EXAM-SYSTEM-
+A secure online examination platform that uses blockchain technology to store exam questions, submissions, and results as immutable records. This ensures transparency, prevents tampering, and allows verifiable proof of authenticity for all stakeholders. Smart contracts automate result verification, while encryption safeguard sensitive student data.
